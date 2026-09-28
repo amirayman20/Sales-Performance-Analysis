@@ -116,5 +116,4 @@ Sales-Performance-Analysis/
     </td>
   </tr>
 </table>
-│
-└── README.md
+.md
